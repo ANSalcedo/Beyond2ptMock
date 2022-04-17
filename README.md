@@ -9,4 +9,4 @@ Angular coordinates ``RA,DEC`` and redshift ``Z_red`` for a galaxy sample in the
 _These catalogs are generated at three different cosmologies (Box A,B,C), so that e.g., an analysis of the real space catalog will not unblind the light cone data._
 
 ### Issues and Questions
-Please email ```ansalcedo@arizona.edu```, ```yosukekobayashi@arizona.edu```, and ```krausee@arizona.edu``` with any questions or issues.
+Please create an issue or email ```ansalcedo@arizona.edu```, ```yosukekobayashi@arizona.edu```, and ```krausee@arizona.edu``` with any questions or requests.
