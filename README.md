@@ -11,7 +11,7 @@ Real-space galaxy coordinates from a 8.0 (Gpc/h)^3 snapshot at z=1.025 with peri
 ### Large Redshift space snapshot ([E_mock_redshift-space_large.h5](https://github.com/ANSalcedo/Beyond2ptMock/blob/main/E_mock_redshift-space_large.h5))
 Redshift-space galaxy coordinates for a line-of-sight along the ``z`` coordinate axis with redshift space distortions calculated in the plane-parallel approximation from a 8.0 (Gpc/h)^3 snapshot at z=1.025 with periodic boundary conditions (box length = 2000.0 Mpc/h). For each galaxy, the file contains ``x,y,z_los`` in Mpc/h with the box center at ``(0,0,0)``. The galaxy number density is ~ 5.7 (Mpc/h)^3.
 
-_These catalogs are generated at three different cosmologies (Box A,B,C,D,E), so that e.g., an analysis of the real space catalog will not unblind the light cone data._
+_These catalogs are generated at five different flat wCDM cosmologies (Box A,B,C,D,E), so that e.g., an analysis of the real space catalog will not unblind the light cone data._
 
 ### Issues and Questions
 Please create an issue or email ```ansalcedo@arizona.edu```, ```yosukekobayashi@arizona.edu```, and ```krausee@arizona.edu``` with any questions or requests.
