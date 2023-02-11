@@ -1,5 +1,23 @@
-## Beyond-2pt blind data challenge
-This data challenge for analyses of galaxy-redshift surveys consists of galaxy mock catalogs constructed from N-body halo catalogs using HOD-based galaxy assignments. The simulated galaxy catalogs are available in three different coordinate systems with increasing analysis complexity:
+# Beyond-2pt blind data challenge
+
+This data challenge for analyses of galaxy redshift surveys consists of galaxy mock catalogs constructed from N-body halo catalogs using HOD-based galaxy assignments. The simulated galaxy catalogs are available in three different coordinate systems with increasing analysis complexity:
+
+
+
+## Flat $\Lambda$CDM catalogs
+
+### Real-space snapshot (mock_lcdm_real-space_**.h5)
+
+Real-space galaxy coordinates from a 8,0 (Gpc/h)^3 snapshot at z=1.0 with periodic boundary conditions (box length = 2000.0 Mpc/h). For each galaxy, the file contains coordinates ``x,y,z`` in Mpc/h with the box center at ``(1000,1000,1000)``. The galaxy number density is ~ 4.5e-4 (Mpc/h)^{-3}.
+
+### Redshift-space snapshot (mock_lcdm_redshift-space_*.h5)
+
+Redshift-space galaxy coordinates for a line-of-sight along the ``z`` coordinate axis with redshift space distortions calculated in the plane-parallel approximation from a 8.0 (Gpc/h)^3 snapshot at z=1.0 with periodic boundary conditions (box length = 2000.0 Mpc/h). For each galaxy, the file contains ``x,y,z_los`` in Mpc/h with the box center at ``(1000,1000,1000)``. The galaxy number density is ~ 4.5e-4 (Mpc/h)^{-3}.
+
+
+
+## Flat $w$CDM catalogs
+
 ### Real-space snapshot ([A_mock_real-space.h5](https://github.com/ANSalcedo/Beyond2ptMock/blob/main/A_mock_real-space.h5))
 Real-space galaxy coordinates from a ~1.3 (Gpc/h)^3 snapshot at z=1.0 with periodic boundary conditions (box length = 1100.0 Mpc/h). For each galaxy, the file contains coordinates ``x,y,z`` in Mpc/h with the box center at ``(550,550,550)``. The galaxy number density is ~ 4e-4 (Mpc/h)^{-3}.
 ### Redshift space snapshot ([B_mock_redshift-space.h5](https://github.com/ANSalcedo/Beyond2ptMock/blob/main/B_mock_redshift-space.h5))
@@ -15,5 +33,8 @@ Real-space galaxy coordinates from a ~1.3 (Gpc/h)^3 snapshot at z=1.0 with perio
 
 _These catalogs are generated at five different flat wCDM cosmologies (Box A/F,B,C,D,E), so that e.g., an analysis of the real space catalog will not unblind the light cone data._
 
-### Issues and Questions
+
+
+## Issues and Questions
+
 Please create an issue or email ```ansalcedo@arizona.edu```, ```yosukekobayashi@arizona.edu```, and ```krausee@arizona.edu``` with any questions or requests.
