@@ -15,4 +15,4 @@ Redshift-space galaxy coordinates for a line-of-sight along the ``z`` coordinate
 ### Lower density real-space snapshot ([F_mock_real-space.h5](https://github.com/ANSalcedo/Beyond2ptMock/blob/main/F_mock_real-space.h5))
 Real-space galaxy coordinates from a ~1.3 (Gpc/h)^3 snapshot at z=1.0 with periodic boundary conditions (box length = 1100.0 Mpc/h). For each galaxy, the file contains coordinates ``x,y,z`` in Mpc/h with the box center at ``(550,550,550)``. The galaxy number density is ~ 1e-4 (Mpc/h)^{-3}.
 
-_These catalogs are generated at five different flat wCDM cosmologies (Box A/F,B,C,D,E), so that e.g., an analysis of the real space catalog will not unblind the light cone data._
+_These catalogs are generated at five different flat wCDM cosmologies (Box A/F,B,C,D,E), so that e.g., an analysis of the real space catalog will not unmask the light cone data._
