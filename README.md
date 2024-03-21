@@ -1,4 +1,4 @@
-# Beyond-2pt blind data challenge
+# Beyond-2pt parameter masked data challenge
 
 This data challenge for analyses of galaxy redshift surveys consists of galaxy mock catalogs constructed from N-body halo catalogs using HOD-based galaxy assignments. The simulated galaxy catalogs are available in three different coordinate systems with increasing analysis complexity:
 
