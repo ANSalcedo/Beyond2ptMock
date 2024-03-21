@@ -1,3 +1,5 @@
+These catalogs are not currently in use for the Beyond-2pt. mock challenge.
+
 ## Flat $w$CDM catalogs
 
 ### Real-space snapshot ([A_mock_real-space.h5](https://github.com/ANSalcedo/Beyond2ptMock/blob/main/A_mock_real-space.h5))
