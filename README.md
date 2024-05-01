@@ -12,7 +12,7 @@ An initial set of results is presented in [2405.TBD](https://arxiv.org/abs/2405.
 - void-galaxy correlation function (VGCF),
 - void size function (VSF).
 
-![Parameter-masked analyses on redshift-space galaxy mock](./results/results_1D_RSD.jpeg)
+![Parameter-masked analyses on redshift-space galaxy mock](https://github.com/ANSalcedo/Beyond2ptMock/blob/main/results/results_1D_RSD.jpg)
 ![Parameter-masked analyses on real-space galaxy mock](./results/results_1D_real.jpeg)
 ![Parameter-masked analyses on light-cone galaxy mock](./results/results_1D_lightcone.jpeg)
 
