@@ -12,9 +12,9 @@ An initial set of results is presented in [2405.TBD](https://arxiv.org/abs/2405.
 - void-galaxy correlation function (VGCF),
 - void size function (VSF).
 
-![results_1D_RSD.pdf]
-![results_1D_real.pdf]
-![results_1D_lightcone.pdf]
+![Parameter-masked analyses on redshift-space galaxy mock](results_1D_RSD.pdf)
+![Parameter-masked analyses on real-space galaxy mock](results_1D_real.pdf)
+![Parameter-masked analyses on light-cone galaxy mock](results_1D_lightcone.pdf)
 
 The simulated galaxy catalogs are available in three different coordinate systems with increasing analysis complexity:
 
