@@ -2,7 +2,7 @@
 
 This data challenge for analyses of galaxy redshift surveys consists of galaxy mock catalogs constructed from N-body halo catalogs using HOD-based galaxy assignments. The aim of this challenge is to provide a benchmark data set for emerging statistics and analysis technique and we welcome new submissions anytime.
 
-An initial set of results is presented in [2405.TBD](https://arxiv.org/abs/2405.TBD), with submissions from 
+An initial set of results is presented in [2405.02252](https://arxiv.org/abs/2405.02252), with submissions from 
 - hybrid-EFT power spectrum analysis with the "BACCO" emulator ("BACCO" P),
 - effective field theory-based field-level Bayesian inference (EFT FBI),
 - joint power spectrum plus bispectrum analysis using effective field theory (EFT P+B),
